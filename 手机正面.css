@@ -1,0 +1,167 @@
+/*
+* @Author: a
+* @Date:   2018-01-24 11:54:25
+* @Last Modified by:   a
+* @Last Modified time: 2018-02-02 13:44:23
+*/
+.zhengmian{
+	width: 290px;
+	height: 594px;
+	background: #fae6c5;
+	border-radius: 30px;
+	overflow: hidden;
+	float: left;
+	margin-right: 90px;
+}
+.head{
+	width: 284px;
+	height: 58px;
+	background: #f3f3f3;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 34px;
+	border-top-right-radius: 34px;
+	margin: 0 auto;
+	margin-top: 2px;
+	
+}
+.tingtong{
+	width: 50px;
+	height: 5px;
+	background: #434345;
+	border-radius: 2px;
+	float: left; 
+	margin-top: 22px;
+	margin-left: 14px;
+}
+.shexiangtou{
+	width: 13px;
+	height: 13px;
+	background: #1a2322;
+	border-radius: 50%;
+	float: left; 
+	margin-top: 18px;
+	margin-left: 88px;
+}
+.chuanganqi{
+	width: 11px;
+	height: 6px;
+	background: #000000;
+	border-radius: 2px;
+	float: left; 
+	margin-top: 21px;
+	margin-left: 16px;
+}
+.dadian{
+	width: 12px;
+	height: 12px;
+	background: #000000;
+	border-radius: 50%;
+	float: left; 
+	margin-top: 18px;
+	margin-left: 9px;
+}
+.chuangkou{
+	width: 284px;
+	height: 470px;
+	background: #f0f2f1;
+	margin: 0 auto;
+}
+.pingmu{
+	width: 258px;
+	height: 463px;
+	background: #ffd7b3;
+	margin: 0 auto;
+	border: 3px solid #000;
+}
+.dibu{
+	width: 284px;
+	height: 60px;
+	background: #f1f1f1;
+	border-bottom-left-radius: 34px;
+	border-bottom-right-radius: 34px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	margin: 0 auto;
+	margin-bottom: 2px;
+}
+.anniu{
+	width: 54px;
+	height: 24px;
+	background: #f1f1f1;
+	border-radius: 14px;
+	border: 3px  solid  #4d463c;
+	float: left;
+	margin-top: 14px;
+	margin-left: 112px;
+}
+.beimian{
+	width: 286px;
+	height: 590px;
+	background:#c3ab8f;
+	border-radius: 34px;
+	overflow: hidden; 
+	float: left;
+	margin-left: 90px;
+	border: 2px solid #c3ab9f;
+}
+.houhead{
+	width: 290px;
+	height: 42px;
+	background:#c3ab8f; 
+}
+.dashexiang{
+	width: 32px;
+	height: 32px;
+	background: #1e1e1e;
+	border-radius: 50%;
+	float: left;
+	margin-top: 5px;
+	margin-left: 28px;
+	border: 1px solid #cab7a8;
+}
+.xiaodian{
+	width: 14px;
+	height: 14px;
+	background: #b8bab5;
+	border-radius: 50%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 17px;
+}
+.hengxian{
+	width: 290px;
+	height: 6px;
+	background: #d7d7d9;
+}
+.zhongjian{
+	width: 290px;
+	height: 488px;
+	background: red;
+	float: left;
+	margin: 0 auto;
+}
+.logo{
+	width: 86px;
+	height: 25px;
+	background: #bba485;
+	float: left;
+	margin: 0 auto;
+	margin-left: 101px;
+	margin-top: 106px; 
+}
+.tupian{
+	width: 84px;
+	height: 25px;
+	float: left;
+	margin: 0 auto;
+}
+.xiaxian{
+	width: 290px;
+	height: 6px;
+	background: #d7d7d9;
+	float: bottom;
+	margin-top: 490px;
+}
+
+
